@@ -2,7 +2,6 @@
 
 <div align="center">
 <h4>Multiplayer game server based on DDNet with account system, economy, and mini-games<h4>
----
 
 ![Version](https://img.shields.io/badge/version-1.0.10-blue?style=for-the-badge&logo=appveyor)
 ![License](https://img.shields.io/badge/License-Close--Source-red?style=for-the-badge&logo=opensourceinitiative)
@@ -89,7 +88,6 @@ YBlock is a modified server based on the DDNet engine with extended features:
 
 ### Quick Start
 
-> [!DANGER]
 > THIS IS A CLOSED PROJECT, YOU CANNOT COPY IT
 
 ```bash

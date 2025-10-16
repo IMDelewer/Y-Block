@@ -156,7 +156,7 @@ We welcome contributions!
 
 ## 📄 License
 
-MIT License — see **[LICENSE](LICENSE)**
+YBlock Proprietary License — see **[LICENSE](LICENSE)**
 
 ## 👨‍💻 Author
 

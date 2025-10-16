@@ -166,7 +166,7 @@ sv_plot_file "data/plots"
 
 ## 📄 Лицензия
 
-MIT License — см. **[LICENSE](LICENSE)**
+YBlock Proprietary License — см. **[LICENSE](LICENSE)**
 
 ---
 
